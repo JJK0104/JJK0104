@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![jungjunk's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=jungjunk&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
+![LeetCode Stats](https://leetcard.jacoblin.cool/jungjunk?theme=light&font=baloo&ext=heatmap)
