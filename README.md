@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/jungjunk?theme=light&font=baloo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/jungjunk?theme=light&font=baloo)
